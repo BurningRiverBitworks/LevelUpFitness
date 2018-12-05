@@ -1,0 +1,3 @@
+rootProject.name = 'LevelUpFitness'
+
+include ':app'
